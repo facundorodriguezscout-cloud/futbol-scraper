@@ -1,0 +1,864 @@
+[
+  {
+    "fase": "Fase de grupos",
+    "zona": "Segunda Fase - Zona A",
+    "equipos": [
+      {
+        "posicion": 1,
+        "equipo": "San Martín de Formosa",
+        "puntos": "16",
+        "jugados": "7",
+        "goles": "14:5",
+        "diferencia": "9",
+        "ganados": "5",
+        "empatados": "1",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 2,
+        "equipo": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+        "puntos": "14",
+        "jugados": "7",
+        "goles": "6:2",
+        "diferencia": "4",
+        "ganados": "4",
+        "empatados": "2",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 3,
+        "equipo": "Sol De América",
+        "puntos": "13",
+        "jugados": "7",
+        "goles": "8:6",
+        "diferencia": "2",
+        "ganados": "4",
+        "empatados": "1",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 4,
+        "equipo": "Douglas Haig",
+        "puntos": "11",
+        "jugados": "7",
+        "goles": "12:7",
+        "diferencia": "5",
+        "ganados": "3",
+        "empatados": "2",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 5,
+        "equipo": "9 De Julio Rafaela",
+        "puntos": "11",
+        "jugados": "7",
+        "goles": "8:5",
+        "diferencia": "3",
+        "ganados": "3",
+        "empatados": "2",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 6,
+        "equipo": "Defensores Belgrano (VR)",
+        "puntos": "10",
+        "jugados": "7",
+        "goles": "4:3",
+        "diferencia": "1",
+        "ganados": "3",
+        "empatados": "1",
+        "perdidos": "3"
+      },
+      {
+        "posicion": 7,
+        "equipo": "Sarmiento De La Banda",
+        "puntos": "5",
+        "jugados": "7",
+        "goles": "6:12",
+        "diferencia": "-6",
+        "ganados": "1",
+        "empatados": "2",
+        "perdidos": "4"
+      },
+      {
+        "posicion": 8,
+        "equipo": "Sportivo Belgrano",
+        "puntos": "5",
+        "jugados": "8",
+        "goles": "3:14",
+        "diferencia": "-11",
+        "ganados": "1",
+        "empatados": "2",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 9,
+        "equipo": "Bartolomé Mitre (Posadas)",
+        "puntos": "4",
+        "jugados": "7",
+        "goles": "3:10",
+        "diferencia": "-7",
+        "ganados": "1",
+        "empatados": "1",
+        "perdidos": "5"
+      }
+    ]
+  },
+  {
+    "fase": "Fase de grupos",
+    "zona": "Segunda Fase - Zona B",
+    "equipos": [
+      {
+        "posicion": 1,
+        "equipo": "Alvarado",
+        "puntos": "14",
+        "jugados": "7",
+        "goles": "9:4",
+        "diferencia": "5",
+        "ganados": "4",
+        "empatados": "2",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 2,
+        "equipo": "Atenas Río Cuarto",
+        "puntos": "13",
+        "jugados": "7",
+        "goles": "12:9",
+        "diferencia": "3",
+        "ganados": "4",
+        "empatados": "1",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 3,
+        "equipo": "Cipolletti",
+        "puntos": "12",
+        "jugados": "7",
+        "goles": "8:7",
+        "diferencia": "1",
+        "ganados": "3",
+        "empatados": "3",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 4,
+        "equipo": "Olimpo",
+        "puntos": "12",
+        "jugados": "7",
+        "goles": "6:3",
+        "diferencia": "3",
+        "ganados": "3",
+        "empatados": "3",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 5,
+        "equipo": "Argentino Monte Maíz",
+        "puntos": "11",
+        "jugados": "8",
+        "goles": "7:7",
+        "diferencia": "0",
+        "ganados": "3",
+        "empatados": "2",
+        "perdidos": "3"
+      },
+      {
+        "posicion": 6,
+        "equipo": "Kimberley Mar Del Plata",
+        "puntos": "10",
+        "jugados": "7",
+        "goles": "8:6",
+        "diferencia": "2",
+        "ganados": "3",
+        "empatados": "1",
+        "perdidos": "3"
+      },
+      {
+        "posicion": 7,
+        "equipo": "Villa Mitre",
+        "puntos": "9",
+        "jugados": "7",
+        "goles": "5:4",
+        "diferencia": "1",
+        "ganados": "2",
+        "empatados": "3",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 8,
+        "equipo": "Huracán Las Heras",
+        "puntos": "4",
+        "jugados": "7",
+        "goles": "2:8",
+        "diferencia": "-6",
+        "ganados": "1",
+        "empatados": "1",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 9,
+        "equipo": "Juventud Antoniana",
+        "puntos": "2",
+        "jugados": "7",
+        "goles": "1:10",
+        "diferencia": "-9",
+        "ganados": "0",
+        "empatados": "2",
+        "perdidos": "5"
+      }
+    ]
+  },
+  {
+    "fase": "Fase de grupos",
+    "zona": "Reválida - Zona A",
+    "equipos": [
+      {
+        "posicion": 1,
+        "equipo": "Boca Unidos de Corrientes",
+        "puntos": "14",
+        "jugados": "7",
+        "goles": "11:4",
+        "diferencia": "7",
+        "ganados": "4",
+        "empatados": "2",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 2,
+        "equipo": "Gimnasia de Concepción",
+        "puntos": "14",
+        "jugados": "7",
+        "goles": "9:1",
+        "diferencia": "8",
+        "ganados": "4",
+        "empatados": "2",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 3,
+        "equipo": "Atlético Escobar",
+        "puntos": "11",
+        "jugados": "7",
+        "goles": "7:9",
+        "diferencia": "-2",
+        "ganados": "3",
+        "empatados": "2",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 4,
+        "equipo": "Defensores Pto. Vilelas",
+        "puntos": "11",
+        "jugados": "7",
+        "goles": "11:8",
+        "diferencia": "3",
+        "ganados": "3",
+        "empatados": "2",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 5,
+        "equipo": "El Linqueño",
+        "puntos": "10",
+        "jugados": "7",
+        "goles": "5:3",
+        "diferencia": "2",
+        "ganados": "2",
+        "empatados": "4",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 6,
+        "equipo": "Sportivo Las Parejas",
+        "puntos": "9",
+        "jugados": "7",
+        "goles": "7:3",
+        "diferencia": "4",
+        "ganados": "2",
+        "empatados": "3",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 7,
+        "equipo": "Independiente Chivilcoy",
+        "puntos": "9",
+        "jugados": "7",
+        "goles": "5:5",
+        "diferencia": "0",
+        "ganados": "2",
+        "empatados": "3",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 8,
+        "equipo": "Sarmiento de Resistencia",
+        "puntos": "6",
+        "jugados": "7",
+        "goles": "4:13",
+        "diferencia": "-9",
+        "ganados": "2",
+        "empatados": "0",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 9,
+        "equipo": "Tucumán Central",
+        "puntos": "2",
+        "jugados": "8",
+        "goles": "8:21",
+        "diferencia": "-13",
+        "ganados": "0",
+        "empatados": "2",
+        "perdidos": "6"
+      }
+    ]
+  },
+  {
+    "fase": "Fase de grupos",
+    "zona": "Reválida - Zona B",
+    "equipos": [
+      {
+        "posicion": 1,
+        "equipo": "San Martín de Mendoza",
+        "puntos": "15",
+        "jugados": "8",
+        "goles": "9:6",
+        "diferencia": "3",
+        "ganados": "4",
+        "empatados": "3",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 2,
+        "equipo": "Fundación Amigos por el Deporte",
+        "puntos": "14",
+        "jugados": "8",
+        "goles": "7:4",
+        "diferencia": "3",
+        "ganados": "4",
+        "empatados": "2",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 3,
+        "equipo": "Germinal",
+        "puntos": "13",
+        "jugados": "8",
+        "goles": "10:5",
+        "diferencia": "5",
+        "ganados": "3",
+        "empatados": "4",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 4,
+        "equipo": "Juventud Unida San Luis",
+        "puntos": "13",
+        "jugados": "8",
+        "goles": "7:6",
+        "diferencia": "1",
+        "ganados": "4",
+        "empatados": "1",
+        "perdidos": "3"
+      },
+      {
+        "posicion": 5,
+        "equipo": "Costa Brava (Gral Pico)",
+        "puntos": "13",
+        "jugados": "8",
+        "goles": "10:7",
+        "diferencia": "3",
+        "ganados": "3",
+        "empatados": "4",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 6,
+        "equipo": "Deportivo Rincón",
+        "puntos": "12",
+        "jugados": "8",
+        "goles": "8:5",
+        "diferencia": "3",
+        "ganados": "3",
+        "empatados": "3",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 7,
+        "equipo": "Guillermo Brown",
+        "puntos": "10",
+        "jugados": "8",
+        "goles": "6:7",
+        "diferencia": "-1",
+        "ganados": "3",
+        "empatados": "1",
+        "perdidos": "4"
+      },
+      {
+        "posicion": 8,
+        "equipo": "Círculo Deportivo",
+        "puntos": "8",
+        "jugados": "8",
+        "goles": "5:7",
+        "diferencia": "-2",
+        "ganados": "2",
+        "empatados": "2",
+        "perdidos": "4"
+      },
+      {
+        "posicion": 9,
+        "equipo": "Sol de Mayo",
+        "puntos": "6",
+        "jugados": "8",
+        "goles": "6:14",
+        "diferencia": "-8",
+        "ganados": "2",
+        "empatados": "0",
+        "perdidos": "6"
+      },
+      {
+        "posicion": 10,
+        "equipo": "Santamarina Tandil",
+        "puntos": "6",
+        "jugados": "8",
+        "goles": "6:13",
+        "diferencia": "-7",
+        "ganados": "2",
+        "empatados": "0",
+        "perdidos": "6"
+      }
+    ]
+  },
+  {
+    "fase": "Temporada Regular",
+    "zona": "Grupo A",
+    "equipos": [
+      {
+        "posicion": 1,
+        "equipo": "Douglas Haig",
+        "puntos": "31",
+        "jugados": "18",
+        "goles": "22:15",
+        "diferencia": "7",
+        "ganados": "9",
+        "empatados": "4",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 2,
+        "equipo": "Sportivo Belgrano",
+        "puntos": "30",
+        "jugados": "18",
+        "goles": "21:9",
+        "diferencia": "12",
+        "ganados": "7",
+        "empatados": "9",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 3,
+        "equipo": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+        "puntos": "27",
+        "jugados": "18",
+        "goles": "17:12",
+        "diferencia": "5",
+        "ganados": "7",
+        "empatados": "6",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 4,
+        "equipo": "Defensores Belgrano (VR)",
+        "puntos": "27",
+        "jugados": "18",
+        "goles": "24:20",
+        "diferencia": "4",
+        "ganados": "7",
+        "empatados": "6",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 5,
+        "equipo": "9 De Julio Rafaela",
+        "puntos": "25",
+        "jugados": "18",
+        "goles": "28:27",
+        "diferencia": "1",
+        "ganados": "7",
+        "empatados": "4",
+        "perdidos": "7"
+      },
+      {
+        "posicion": 6,
+        "equipo": "Sportivo Las Parejas",
+        "puntos": "24",
+        "jugados": "18",
+        "goles": "12:13",
+        "diferencia": "-1",
+        "ganados": "5",
+        "empatados": "9",
+        "perdidos": "4"
+      },
+      {
+        "posicion": 7,
+        "equipo": "Atlético Escobar",
+        "puntos": "22",
+        "jugados": "18",
+        "goles": "21:29",
+        "diferencia": "-8",
+        "ganados": "6",
+        "empatados": "4",
+        "perdidos": "8"
+      },
+      {
+        "posicion": 8,
+        "equipo": "Independiente Chivilcoy",
+        "puntos": "19",
+        "jugados": "18",
+        "goles": "15:22",
+        "diferencia": "-7",
+        "ganados": "4",
+        "empatados": "7",
+        "perdidos": "7"
+      },
+      {
+        "posicion": 9,
+        "equipo": "El Linqueño",
+        "puntos": "19",
+        "jugados": "18",
+        "goles": "14:21",
+        "diferencia": "-7",
+        "ganados": "5",
+        "empatados": "4",
+        "perdidos": "9"
+      },
+      {
+        "posicion": 10,
+        "equipo": "Gimnasia de Concepción",
+        "puntos": "17",
+        "jugados": "18",
+        "goles": "12:18",
+        "diferencia": "-6",
+        "ganados": "4",
+        "empatados": "5",
+        "perdidos": "9"
+      }
+    ]
+  },
+  {
+    "fase": "Temporada Regular",
+    "zona": "Grupo B",
+    "equipos": [
+      {
+        "posicion": 1,
+        "equipo": "San Martín de Formosa",
+        "puntos": "30",
+        "jugados": "16",
+        "goles": "25:19",
+        "diferencia": "6",
+        "ganados": "9",
+        "empatados": "3",
+        "perdidos": "4"
+      },
+      {
+        "posicion": 2,
+        "equipo": "Bartolomé Mitre (Posadas)",
+        "puntos": "26",
+        "jugados": "16",
+        "goles": "13:7",
+        "diferencia": "6",
+        "ganados": "7",
+        "empatados": "5",
+        "perdidos": "4"
+      },
+      {
+        "posicion": 3,
+        "equipo": "Sol De América",
+        "puntos": "26",
+        "jugados": "16",
+        "goles": "19:14",
+        "diferencia": "5",
+        "ganados": "8",
+        "empatados": "2",
+        "perdidos": "6"
+      },
+      {
+        "posicion": 4,
+        "equipo": "Sarmiento De La Banda",
+        "puntos": "25",
+        "jugados": "16",
+        "goles": "17:15",
+        "diferencia": "2",
+        "ganados": "7",
+        "empatados": "4",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 5,
+        "equipo": "Juventud Antoniana",
+        "puntos": "25",
+        "jugados": "16",
+        "goles": "19:11",
+        "diferencia": "8",
+        "ganados": "7",
+        "empatados": "4",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 6,
+        "equipo": "Defensores Pto. Vilelas",
+        "puntos": "19",
+        "jugados": "16",
+        "goles": "21:26",
+        "diferencia": "-5",
+        "ganados": "6",
+        "empatados": "1",
+        "perdidos": "9"
+      },
+      {
+        "posicion": 7,
+        "equipo": "Boca Unidos de Corrientes",
+        "puntos": "18",
+        "jugados": "16",
+        "goles": "19:25",
+        "diferencia": "-6",
+        "ganados": "5",
+        "empatados": "3",
+        "perdidos": "8"
+      },
+      {
+        "posicion": 8,
+        "equipo": "Tucumán Central",
+        "puntos": "17",
+        "jugados": "16",
+        "goles": "14:19",
+        "diferencia": "-5",
+        "ganados": "5",
+        "empatados": "2",
+        "perdidos": "9"
+      },
+      {
+        "posicion": 9,
+        "equipo": "Sarmiento de Resistencia",
+        "puntos": "15",
+        "jugados": "16",
+        "goles": "12:23",
+        "diferencia": "-11",
+        "ganados": "3",
+        "empatados": "6",
+        "perdidos": "7"
+      }
+    ]
+  },
+  {
+    "fase": "Temporada Regular",
+    "zona": "Grupo C",
+    "equipos": [
+      {
+        "posicion": 1,
+        "equipo": "Cipolletti",
+        "puntos": "25",
+        "jugados": "16",
+        "goles": "19:15",
+        "diferencia": "4",
+        "ganados": "7",
+        "empatados": "4",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 2,
+        "equipo": "Argentino Monte Maíz",
+        "puntos": "23",
+        "jugados": "16",
+        "goles": "16:12",
+        "diferencia": "4",
+        "ganados": "5",
+        "empatados": "8",
+        "perdidos": "3"
+      },
+      {
+        "posicion": 3,
+        "equipo": "Atenas Río Cuarto",
+        "puntos": "23",
+        "jugados": "16",
+        "goles": "12:13",
+        "diferencia": "-1",
+        "ganados": "6",
+        "empatados": "5",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 4,
+        "equipo": "Huracán Las Heras",
+        "puntos": "23",
+        "jugados": "16",
+        "goles": "11:13",
+        "diferencia": "-2",
+        "ganados": "6",
+        "empatados": "5",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 5,
+        "equipo": "Fundación Amigos por el Deporte",
+        "puntos": "21",
+        "jugados": "16",
+        "goles": "17:14",
+        "diferencia": "3",
+        "ganados": "4",
+        "empatados": "9",
+        "perdidos": "3"
+      },
+      {
+        "posicion": 6,
+        "equipo": "Deportivo Rincón",
+        "puntos": "19",
+        "jugados": "16",
+        "goles": "13:16",
+        "diferencia": "-3",
+        "ganados": "5",
+        "empatados": "4",
+        "perdidos": "7"
+      },
+      {
+        "posicion": 7,
+        "equipo": "San Martín de Mendoza",
+        "puntos": "19",
+        "jugados": "16",
+        "goles": "11:15",
+        "diferencia": "-4",
+        "ganados": "4",
+        "empatados": "7",
+        "perdidos": "5"
+      },
+      {
+        "posicion": 8,
+        "equipo": "Costa Brava (Gral Pico)",
+        "puntos": "18",
+        "jugados": "16",
+        "goles": "12:13",
+        "diferencia": "-1",
+        "ganados": "4",
+        "empatados": "6",
+        "perdidos": "6"
+      },
+      {
+        "posicion": 9,
+        "equipo": "Juventud Unida San Luis",
+        "puntos": "17",
+        "jugados": "16",
+        "goles": "10:10",
+        "diferencia": "0",
+        "ganados": "3",
+        "empatados": "8",
+        "perdidos": "5"
+      }
+    ]
+  },
+  {
+    "fase": "Temporada Regular",
+    "zona": "Grupo D",
+    "equipos": [
+      {
+        "posicion": 1,
+        "equipo": "Olimpo",
+        "puntos": "31",
+        "jugados": "16",
+        "goles": "13:4",
+        "diferencia": "9",
+        "ganados": "8",
+        "empatados": "7",
+        "perdidos": "1"
+      },
+      {
+        "posicion": 2,
+        "equipo": "Alvarado",
+        "puntos": "27",
+        "jugados": "16",
+        "goles": "19:7",
+        "diferencia": "12",
+        "ganados": "7",
+        "empatados": "6",
+        "perdidos": "3"
+      },
+      {
+        "posicion": 3,
+        "equipo": "Kimberley Mar Del Plata",
+        "puntos": "26",
+        "jugados": "16",
+        "goles": "15:9",
+        "diferencia": "6",
+        "ganados": "6",
+        "empatados": "8",
+        "perdidos": "2"
+      },
+      {
+        "posicion": 4,
+        "equipo": "Villa Mitre",
+        "puntos": "23",
+        "jugados": "16",
+        "goles": "14:8",
+        "diferencia": "6",
+        "ganados": "5",
+        "empatados": "8",
+        "perdidos": "3"
+      },
+      {
+        "posicion": 5,
+        "equipo": "Germinal",
+        "puntos": "18",
+        "jugados": "16",
+        "goles": "7:14",
+        "diferencia": "-7",
+        "ganados": "4",
+        "empatados": "6",
+        "perdidos": "6"
+      },
+      {
+        "posicion": 6,
+        "equipo": "Sol de Mayo",
+        "puntos": "18",
+        "jugados": "16",
+        "goles": "15:18",
+        "diferencia": "-3",
+        "ganados": "4",
+        "empatados": "6",
+        "perdidos": "6"
+      },
+      {
+        "posicion": 7,
+        "equipo": "Guillermo Brown",
+        "puntos": "17",
+        "jugados": "16",
+        "goles": "13:20",
+        "diferencia": "-7",
+        "ganados": "4",
+        "empatados": "5",
+        "perdidos": "7"
+      },
+      {
+        "posicion": 8,
+        "equipo": "Santamarina Tandil",
+        "puntos": "13",
+        "jugados": "16",
+        "goles": "9:17",
+        "diferencia": "-8",
+        "ganados": "2",
+        "empatados": "7",
+        "perdidos": "7"
+      },
+      {
+        "posicion": 9,
+        "equipo": "Círculo Deportivo",
+        "puntos": "13",
+        "jugados": "16",
+        "goles": "8:16",
+        "diferencia": "-8",
+        "ganados": "2",
+        "empatados": "7",
+        "perdidos": "7"
+      }
+    ]
+  }
+]

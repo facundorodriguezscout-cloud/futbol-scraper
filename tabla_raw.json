@@ -1,0 +1,5793 @@
+{
+  "TTL": 10,
+  "league": {
+    "name": "Federal A",
+    "id": "fahi",
+    "url_name": "federal-a",
+    "country_id": "ba",
+    "show_country_flags": false,
+    "allow_open": true,
+    "country_name": "Argentina",
+    "is_international": false
+  },
+  "tables_groups": [
+    {
+      "name": "Fase de grupos",
+      "tables": [
+        {
+          "name": "Segunda Fase - Zona A",
+          "table": {
+            "is_live": false,
+            "destinations": [
+              {
+                "num": 1,
+                "color": "#B7D42A",
+                "name": "Tercera fase + Copa Argentina 2026"
+              },
+              {
+                "num": 2,
+                "color": "#03A9F4",
+                "name": "Revalida - Segunda etapa + Copa Argentina 2026"
+              },
+              {
+                "num": 3,
+                "color": "#C84101",
+                "name": "Revalida - Segunda etapa"
+              },
+              {
+                "num": 4,
+                "color": "#F022E2",
+                "name": "Revalida - Segunda etapa"
+              }
+            ],
+            "columns": [
+              {
+                "key": "Points",
+                "title": "PTS",
+                "type": 1,
+                "is_bold": true
+              },
+              {
+                "key": "GamePlayed",
+                "title": "J",
+                "type": 1
+              },
+              {
+                "key": "Goals",
+                "title": "Gol",
+                "type": 1
+              },
+              {
+                "key": "Ratio",
+                "title": "+/-",
+                "type": 1
+              },
+              {
+                "key": "GamesWon",
+                "title": "G",
+                "type": 1
+              },
+              {
+                "key": "GamesEven",
+                "title": "E",
+                "type": 1
+              },
+              {
+                "key": "GamesLost",
+                "title": "P",
+                "type": 1
+              },
+              {
+                "key": "{trend}",
+                "title": "Últimas",
+                "type": 3
+              }
+            ],
+            "rows": [
+              {
+                "num": 1,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "14:5"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "16"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      1,
+                      2,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "San Martín de Formosa",
+                    "short_name": "San Martín (For)",
+                    "url_name": "san-martin-de-formosa",
+                    "id": "cijea",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#06203A",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 2,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "6:2"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "4"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "14"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      1,
+                      1,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+                    "short_name": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+                    "url_name": "cscyd-gimnasia-y-esgrima-(chivilcoy)",
+                    "id": "ieega",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#005B25",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 3,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "8:6"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "2"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "13"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      1,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sol De América",
+                    "short_name": "Sol De América",
+                    "url_name": "sol-de-america",
+                    "id": "cbjca",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#0F3F89",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 4,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "12:7"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "11"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      1,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Douglas Haig",
+                    "short_name": "Douglas Haig",
+                    "url_name": "douglas-haig",
+                    "id": "jcig",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#EE2E24",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 5,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "8:5"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "11"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      1,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "9 De Julio Rafaela",
+                    "short_name": "9 de Julio (R)",
+                    "url_name": "9-de-julio-rafaela",
+                    "id": "hdffa",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#DC2A1C",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#03A9F4"
+              },
+              {
+                "num": 6,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "4:3"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "10"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "3"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      0,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Defensores Belgrano (VR)",
+                    "short_name": "Defensores (VR)",
+                    "url_name": "defensores-belgrano-(vr)",
+                    "id": "beafg",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#A51D1F",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 7,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "6:12"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-6"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "4"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      0,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sarmiento De La Banda",
+                    "short_name": "Sarmiento (LB)",
+                    "url_name": "sarmiento-de-la-banda",
+                    "id": "hjffj",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#003399",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 8,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "3:14"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-11"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sportivo Belgrano",
+                    "short_name": "Sp. Belgrano",
+                    "url_name": "sportivo-belgrano",
+                    "id": "jcie",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#01924E",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 9,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "3:10"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-7"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Bartolomé Mitre (Posadas)",
+                    "short_name": "Bartolomé Mitre",
+                    "url_name": "ca-bartolome-mitre-(posadas)",
+                    "id": "iebih",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#323991",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Segunda Fase - Zona B",
+          "table": {
+            "is_live": false,
+            "destinations": [
+              {
+                "num": 1,
+                "color": "#B7D42A",
+                "name": "Tercera fase + Copa Argentina 2026"
+              },
+              {
+                "num": 2,
+                "color": "#03A9F4",
+                "name": "Revalida - Segunda etapa + Copa Argentina 2026"
+              },
+              {
+                "num": 3,
+                "color": "#C84101",
+                "name": "Revalida - Segunda etapa"
+              },
+              {
+                "num": 4,
+                "color": "#F022E2",
+                "name": "Revalida - Segunda etapa"
+              }
+            ],
+            "columns": [
+              {
+                "key": "Points",
+                "title": "PTS",
+                "type": 1,
+                "is_bold": true
+              },
+              {
+                "key": "GamePlayed",
+                "title": "J",
+                "type": 1
+              },
+              {
+                "key": "Goals",
+                "title": "Gol",
+                "type": 1
+              },
+              {
+                "key": "Ratio",
+                "title": "+/-",
+                "type": 1
+              },
+              {
+                "key": "GamesWon",
+                "title": "G",
+                "type": 1
+              },
+              {
+                "key": "GamesEven",
+                "title": "E",
+                "type": 1
+              },
+              {
+                "key": "GamesLost",
+                "title": "P",
+                "type": 1
+              },
+              {
+                "key": "{trend}",
+                "title": "Últimas",
+                "type": 3
+              }
+            ],
+            "rows": [
+              {
+                "num": 1,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "9:4"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "14"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      1,
+                      2,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Alvarado",
+                    "short_name": "Alvarado",
+                    "url_name": "alvarado",
+                    "id": "badei",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#173661",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 2,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "12:9"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "13"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      1,
+                      2,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Atenas Río Cuarto",
+                    "short_name": "Atenas (RC)",
+                    "url_name": "scyb-atenas",
+                    "id": "hdggf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#00309E",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 3,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "8:7"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "12"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      2,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Cipolletti",
+                    "short_name": "Cipolletti",
+                    "url_name": "cipolletti",
+                    "id": "jcia",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#109547",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 4,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "6:3"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "12"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      2,
+                      0,
+                      1,
+                      2,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Olimpo",
+                    "short_name": "Olimpo",
+                    "url_name": "olimpo-de-bahia-blanca",
+                    "id": "hcbg",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#000000",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 5,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "7:7"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "0"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "11"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "3"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      1,
+                      1,
+                      2,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Argentino Monte Maíz",
+                    "short_name": "Argentino MM",
+                    "url_name": "argentino-mm",
+                    "id": "gjfcc",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#0053F5",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#03A9F4"
+              },
+              {
+                "num": 6,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "8:6"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "2"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "10"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "3"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      2,
+                      1,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Kimberley Mar Del Plata",
+                    "short_name": "Kimberley",
+                    "url_name": "kimberley-mar-del-plata",
+                    "id": "ehbej",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#009933",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 7,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "5:4"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "9"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      2,
+                      2,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Villa Mitre",
+                    "short_name": "Villa Mitre",
+                    "url_name": "villa-mitre",
+                    "id": "bbjaf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#089908",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 8,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "2:8"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-6"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      2,
+                      0,
+                      0,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Huracán Las Heras",
+                    "short_name": "Huracán (LH)",
+                    "url_name": "huracan-las-heras",
+                    "id": "cdbje",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#EC2B2A",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 9,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "1:10"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-9"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "0"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      0,
+                      2,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Juventud Antoniana",
+                    "short_name": "Juv. Antoniana",
+                    "url_name": "juventud-antoniana",
+                    "id": "jchh",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#5A4029",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Reválida - Zona A",
+          "table": {
+            "is_live": false,
+            "destinations": [
+              {
+                "num": 1,
+                "color": "#B7D42A",
+                "name": "Tercera fase + Copa Argentina 2026"
+              },
+              {
+                "num": 2,
+                "color": "#03A9F4",
+                "name": "Revalida - Segunda etapa + Copa Argentina 2026"
+              },
+              {
+                "num": 3,
+                "color": "#C84101",
+                "name": "Revalida - Segunda etapa"
+              },
+              {
+                "num": 4,
+                "color": "#F022E2",
+                "name": "Revalida - Segunda etapa"
+              }
+            ],
+            "columns": [
+              {
+                "key": "Points",
+                "title": "PTS",
+                "type": 1,
+                "is_bold": true
+              },
+              {
+                "key": "GamePlayed",
+                "title": "J",
+                "type": 1
+              },
+              {
+                "key": "Goals",
+                "title": "Gol",
+                "type": 1
+              },
+              {
+                "key": "Ratio",
+                "title": "+/-",
+                "type": 1
+              },
+              {
+                "key": "GamesWon",
+                "title": "G",
+                "type": 1
+              },
+              {
+                "key": "GamesEven",
+                "title": "E",
+                "type": 1
+              },
+              {
+                "key": "GamesLost",
+                "title": "P",
+                "type": 1
+              },
+              {
+                "key": "{trend}",
+                "title": "Últimas",
+                "type": 3
+              }
+            ],
+            "rows": [
+              {
+                "num": 1,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "11:4"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "14"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      2,
+                      1,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Boca Unidos de Corrientes",
+                    "short_name": "Boca Unidos",
+                    "url_name": "boca-unidos",
+                    "id": "hcce",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#DA2128",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 2,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "9:1"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "14"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      2,
+                      1,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Gimnasia de Concepción",
+                    "short_name": "Gimnasia de Concepción",
+                    "url_name": "gimnasia-de-concepcion-del-uruguay",
+                    "id": "jcif",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#0796E4",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 3,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "7:9"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-2"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "11"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      0,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Atlético Escobar",
+                    "short_name": "Atlético Escobar",
+                    "url_name": "escobar-fc-(ing.-maschwitz)",
+                    "id": "jbiaa",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 4,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "11:8"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "11"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      2,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Defensores Pto. Vilelas",
+                    "short_name": "Defensores Pto. Vilelas",
+                    "url_name": "defensores-de-vilelas-(puerto-vilelas)",
+                    "id": "jbifb",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 5,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "5:3"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "2"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "10"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      2,
+                      2,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "El Linqueño",
+                    "short_name": "El Linqueño",
+                    "url_name": "el-linqueno",
+                    "id": "bbjcf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#183091",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 6,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "7:3"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "4"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "9"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      1,
+                      0,
+                      2,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sportivo Las Parejas",
+                    "short_name": "Sportivo LP",
+                    "url_name": "sportivo-las-parejas",
+                    "id": "ceeaj",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#009933",
+                      "text_color": "#000000"
+                    }
+                  }
+                }
+              },
+              {
+                "num": 7,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "5:5"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "0"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "9"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      2,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Independiente Chivilcoy",
+                    "short_name": "Independiente (Chi)",
+                    "url_name": "independiente-chivilcoy",
+                    "id": "cbjbf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#FE2A12",
+                      "text_color": "#000000"
+                    }
+                  }
+                }
+              },
+              {
+                "num": 8,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "4:13"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-9"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "0"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sarmiento de Resistencia",
+                    "short_name": "Sarmiento (R)",
+                    "url_name": "sarmiento-de-resistencia",
+                    "id": "jdac",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#F6000C",
+                      "text_color": "#000000"
+                    }
+                  }
+                }
+              },
+              {
+                "num": 9,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "8:21"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-13"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "0"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "6"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      2,
+                      0,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Tucumán Central",
+                    "short_name": "Tucumán Central",
+                    "url_name": "club-tucuman-central-deportes",
+                    "id": "iebib",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "name": "Reválida - Zona B",
+          "table": {
+            "is_live": false,
+            "destinations": [
+              {
+                "num": 1,
+                "color": "#B7D42A",
+                "name": "Tercera fase + Copa Argentina 2026"
+              },
+              {
+                "num": 2,
+                "color": "#03A9F4",
+                "name": "Revalida - Segunda etapa + Copa Argentina 2026"
+              },
+              {
+                "num": 3,
+                "color": "#C84101",
+                "name": "Revalida - Segunda etapa"
+              },
+              {
+                "num": 4,
+                "color": "#F022E2",
+                "name": "Revalida - Segunda etapa"
+              }
+            ],
+            "columns": [
+              {
+                "key": "Points",
+                "title": "PTS",
+                "type": 1,
+                "is_bold": true
+              },
+              {
+                "key": "GamePlayed",
+                "title": "J",
+                "type": 1
+              },
+              {
+                "key": "Goals",
+                "title": "Gol",
+                "type": 1
+              },
+              {
+                "key": "Ratio",
+                "title": "+/-",
+                "type": 1
+              },
+              {
+                "key": "GamesWon",
+                "title": "G",
+                "type": 1
+              },
+              {
+                "key": "GamesEven",
+                "title": "E",
+                "type": 1
+              },
+              {
+                "key": "GamesLost",
+                "title": "P",
+                "type": 1
+              },
+              {
+                "key": "{trend}",
+                "title": "Últimas",
+                "type": 3
+              }
+            ],
+            "rows": [
+              {
+                "num": 1,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "9:6"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "15"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      0,
+                      2,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "San Martín de Mendoza",
+                    "short_name": "San Martín (Mdza)",
+                    "url_name": "san-martin-mendoza",
+                    "id": "bbjbg",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#FE0000",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 2,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "7:4"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "14"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      1,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Fundación Amigos por el Deporte",
+                    "short_name": "Fundación Amigos por el Deporte",
+                    "url_name": "fundacion-amigos-por-el-deporte",
+                    "id": "iebea",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 3,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "10:5"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "13"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      2,
+                      2,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Germinal",
+                    "short_name": "Germinal",
+                    "url_name": "germinal",
+                    "id": "cijfa",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#218D39",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 4,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "7:6"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "13"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "3"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      1,
+                      1,
+                      0,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Juventud Unida San Luis",
+                    "short_name": "Juventud Unida (SL)",
+                    "url_name": "juventud-unida-san-luis",
+                    "id": "jcib",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#02538C",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 5,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "10:7"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "13"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      0,
+                      1,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Costa Brava (Gral Pico)",
+                    "short_name": "Costa Brava",
+                    "url_name": "costa-brava-(gral-pico)",
+                    "id": "ieddg",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#E5E5E6",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#F022E2"
+              },
+              {
+                "num": 6,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "8:5"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "12"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      2,
+                      2,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Deportivo Rincón",
+                    "short_name": "Dvo. Rincón",
+                    "url_name": "deportivo-rincon",
+                    "id": "fajej",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                }
+              },
+              {
+                "num": 7,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "6:7"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "10"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "4"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      2,
+                      1,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Guillermo Brown",
+                    "short_name": "Gmo. Brown",
+                    "url_name": "guillermo-brown",
+                    "id": "igeh",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#1E2D53",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                }
+              },
+              {
+                "num": 8,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "5:7"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-2"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "8"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "4"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      0,
+                      0,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Círculo Deportivo",
+                    "short_name": "Círculo Deportivo",
+                    "url_name": "circulo-deportivo",
+                    "id": "fhagc",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#009D1B",
+                      "text_color": "#000000"
+                    }
+                  }
+                }
+              },
+              {
+                "num": 9,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "6:14"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-8"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "0"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "6"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sol de Mayo",
+                    "short_name": "Sol de Mayo",
+                    "url_name": "sol-de-mayo",
+                    "id": "bbijf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#269BF7",
+                      "text_color": "#000000"
+                    }
+                  }
+                }
+              },
+              {
+                "num": 10,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "6:13"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-7"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "0"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "6"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      1,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Santamarina Tandil",
+                    "short_name": "Santamarina",
+                    "url_name": "santamarina-tandil",
+                    "id": "jafd",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#FFCA26",
+                      "text_color": "#000000"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Temporada Regular",
+      "tables": [
+        {
+          "name": "Grupo A",
+          "table": {
+            "is_live": false,
+            "destinations": [
+              {
+                "num": 1,
+                "color": "#B7D42A",
+                "name": "Segunda Fase"
+              },
+              {
+                "num": 2,
+                "color": "#C84101",
+                "name": "Revalida"
+              }
+            ],
+            "columns": [
+              {
+                "key": "Points",
+                "title": "PTS",
+                "type": 1,
+                "is_bold": true
+              },
+              {
+                "key": "GamePlayed",
+                "title": "J",
+                "type": 1
+              },
+              {
+                "key": "Goals",
+                "title": "Gol",
+                "type": 1
+              },
+              {
+                "key": "Ratio",
+                "title": "+/-",
+                "type": 1
+              },
+              {
+                "key": "GamesWon",
+                "title": "G",
+                "type": 1
+              },
+              {
+                "key": "GamesEven",
+                "title": "E",
+                "type": 1
+              },
+              {
+                "key": "GamesLost",
+                "title": "P",
+                "type": 1
+              },
+              {
+                "key": "{trend}",
+                "title": "Últimas",
+                "type": 3
+              }
+            ],
+            "rows": [
+              {
+                "num": 1,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "22:15"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "7"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "31"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "9"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      1,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Douglas Haig",
+                    "short_name": "Douglas Haig",
+                    "url_name": "douglas-haig",
+                    "id": "jcig",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#EE2E24",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 2,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "21:9"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "12"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "30"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "9"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sportivo Belgrano",
+                    "short_name": "Sp. Belgrano",
+                    "url_name": "sportivo-belgrano",
+                    "id": "jcie",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#01924E",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 3,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "17:12"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "27"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      1,
+                      1,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+                    "short_name": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+                    "url_name": "cscyd-gimnasia-y-esgrima-(chivilcoy)",
+                    "id": "ieega",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#005B25",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 4,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "24:20"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "4"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "27"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      0,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Defensores Belgrano (VR)",
+                    "short_name": "Defensores (VR)",
+                    "url_name": "defensores-belgrano-(vr)",
+                    "id": "beafg",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#A51D1F",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 5,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "28:27"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "25"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "7"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      1,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "9 De Julio Rafaela",
+                    "short_name": "9 de Julio (R)",
+                    "url_name": "9-de-julio-rafaela",
+                    "id": "hdffa",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#DC2A1C",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 6,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "12:13"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "24"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "9"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "4"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      1,
+                      0,
+                      2,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sportivo Las Parejas",
+                    "short_name": "Sportivo LP",
+                    "url_name": "sportivo-las-parejas",
+                    "id": "ceeaj",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#009933",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 7,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "21:29"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-8"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "22"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "8"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      0,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Atlético Escobar",
+                    "short_name": "Atlético Escobar",
+                    "url_name": "escobar-fc-(ing.-maschwitz)",
+                    "id": "jbiaa",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 8,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "15:22"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-7"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "19"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "7"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      2,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Independiente Chivilcoy",
+                    "short_name": "Independiente (Chi)",
+                    "url_name": "independiente-chivilcoy",
+                    "id": "cbjbf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#FE2A12",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 9,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "14:21"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-7"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "19"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "9"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      2,
+                      2,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "El Linqueño",
+                    "short_name": "El Linqueño",
+                    "url_name": "el-linqueno",
+                    "id": "bbjcf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#183091",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 10,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "12:18"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-6"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "17"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "9"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      2,
+                      1,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Gimnasia de Concepción",
+                    "short_name": "Gimnasia de Concepción",
+                    "url_name": "gimnasia-de-concepcion-del-uruguay",
+                    "id": "jcif",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#0796E4",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Grupo B",
+          "table": {
+            "is_live": false,
+            "destinations": [
+              {
+                "num": 1,
+                "color": "#B7D42A",
+                "name": "Segunda Fase"
+              },
+              {
+                "num": 2,
+                "color": "#C84101",
+                "name": "Revalida"
+              }
+            ],
+            "columns": [
+              {
+                "key": "Points",
+                "title": "PTS",
+                "type": 1,
+                "is_bold": true
+              },
+              {
+                "key": "GamePlayed",
+                "title": "J",
+                "type": 1
+              },
+              {
+                "key": "Goals",
+                "title": "Gol",
+                "type": 1
+              },
+              {
+                "key": "Ratio",
+                "title": "+/-",
+                "type": 1
+              },
+              {
+                "key": "GamesWon",
+                "title": "G",
+                "type": 1
+              },
+              {
+                "key": "GamesEven",
+                "title": "E",
+                "type": 1
+              },
+              {
+                "key": "GamesLost",
+                "title": "P",
+                "type": 1
+              },
+              {
+                "key": "{trend}",
+                "title": "Últimas",
+                "type": 3
+              }
+            ],
+            "rows": [
+              {
+                "num": 1,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "25:19"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "6"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "30"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "9"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "4"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      1,
+                      2,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "San Martín de Formosa",
+                    "short_name": "San Martín (For)",
+                    "url_name": "san-martin-de-formosa",
+                    "id": "cijea",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#06203A",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 2,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "13:7"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "6"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "26"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "4"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Bartolomé Mitre (Posadas)",
+                    "short_name": "Bartolomé Mitre",
+                    "url_name": "ca-bartolome-mitre-(posadas)",
+                    "id": "iebih",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#323991",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 3,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "19:14"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "26"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "8"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "6"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      1,
+                      1,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sol De América",
+                    "short_name": "Sol De América",
+                    "url_name": "sol-de-america",
+                    "id": "cbjca",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#0F3F89",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 4,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "17:15"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "2"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "25"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      0,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sarmiento De La Banda",
+                    "short_name": "Sarmiento (LB)",
+                    "url_name": "sarmiento-de-la-banda",
+                    "id": "hjffj",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#003399",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 5,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "19:11"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "8"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "25"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      0,
+                      2,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Juventud Antoniana",
+                    "short_name": "Juv. Antoniana",
+                    "url_name": "juventud-antoniana",
+                    "id": "jchh",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#5A4029",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 6,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "21:26"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-5"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "19"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "1"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "9"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      2,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Defensores Pto. Vilelas",
+                    "short_name": "Defensores Pto. Vilelas",
+                    "url_name": "defensores-de-vilelas-(puerto-vilelas)",
+                    "id": "jbifb",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 7,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "19:25"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-6"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "18"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "8"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      2,
+                      1,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Boca Unidos de Corrientes",
+                    "short_name": "Boca Unidos",
+                    "url_name": "boca-unidos",
+                    "id": "hcce",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#DA2128",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 8,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "14:19"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-5"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "17"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "9"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      2,
+                      0,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Tucumán Central",
+                    "short_name": "Tucumán Central",
+                    "url_name": "club-tucuman-central-deportes",
+                    "id": "iebib",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 9,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "12:23"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-11"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "15"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "7"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sarmiento de Resistencia",
+                    "short_name": "Sarmiento (R)",
+                    "url_name": "sarmiento-de-resistencia",
+                    "id": "jdac",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#F6000C",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Grupo C",
+          "table": {
+            "is_live": false,
+            "destinations": [
+              {
+                "num": 1,
+                "color": "#B7D42A",
+                "name": "Segunda Fase"
+              },
+              {
+                "num": 2,
+                "color": "#C84101",
+                "name": "Revalida"
+              }
+            ],
+            "columns": [
+              {
+                "key": "Points",
+                "title": "PTS",
+                "type": 1,
+                "is_bold": true
+              },
+              {
+                "key": "GamePlayed",
+                "title": "J",
+                "type": 1
+              },
+              {
+                "key": "Goals",
+                "title": "Gol",
+                "type": 1
+              },
+              {
+                "key": "Ratio",
+                "title": "+/-",
+                "type": 1
+              },
+              {
+                "key": "GamesWon",
+                "title": "G",
+                "type": 1
+              },
+              {
+                "key": "GamesEven",
+                "title": "E",
+                "type": 1
+              },
+              {
+                "key": "GamesLost",
+                "title": "P",
+                "type": 1
+              },
+              {
+                "key": "{trend}",
+                "title": "Últimas",
+                "type": 3
+              }
+            ],
+            "rows": [
+              {
+                "num": 1,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "19:15"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "4"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "25"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      2,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Cipolletti",
+                    "short_name": "Cipolletti",
+                    "url_name": "cipolletti",
+                    "id": "jcia",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#109547",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 2,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "16:12"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "4"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "23"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "8"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "3"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      1,
+                      1,
+                      2,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Argentino Monte Maíz",
+                    "short_name": "Argentino MM",
+                    "url_name": "argentino-mm",
+                    "id": "gjfcc",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#0053F5",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 3,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "12:13"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "23"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      0,
+                      1,
+                      2,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Atenas Río Cuarto",
+                    "short_name": "Atenas (RC)",
+                    "url_name": "scyb-atenas",
+                    "id": "hdggf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#00309E",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 4,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "11:13"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-2"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "23"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      2,
+                      0,
+                      0,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Huracán Las Heras",
+                    "short_name": "Huracán (LH)",
+                    "url_name": "huracan-las-heras",
+                    "id": "cdbje",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#EC2B2A",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 5,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "17:14"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "21"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "9"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "3"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      1,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Fundación Amigos por el Deporte",
+                    "short_name": "Fundación Amigos por el Deporte",
+                    "url_name": "fundacion-amigos-por-el-deporte",
+                    "id": "iebea",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 6,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "13:16"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "19"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "7"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      2,
+                      2,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Deportivo Rincón",
+                    "short_name": "Dvo. Rincón",
+                    "url_name": "deportivo-rincon",
+                    "id": "fajej",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#21282D",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 7,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "11:15"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-4"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "19"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      0,
+                      2,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "San Martín de Mendoza",
+                    "short_name": "San Martín (Mdza)",
+                    "url_name": "san-martin-mendoza",
+                    "id": "bbjbg",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#FE0000",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 8,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "12:13"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-1"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "18"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "6"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      0,
+                      1,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Costa Brava (Gral Pico)",
+                    "short_name": "Costa Brava",
+                    "url_name": "costa-brava-(gral-pico)",
+                    "id": "ieddg",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#E5E5E6",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 9,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "10:10"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "0"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "17"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "3"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "8"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "5"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      1,
+                      1,
+                      0,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Juventud Unida San Luis",
+                    "short_name": "Juventud Unida (SL)",
+                    "url_name": "juventud-unida-san-luis",
+                    "id": "jcib",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#02538C",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Grupo D",
+          "table": {
+            "is_live": false,
+            "destinations": [
+              {
+                "num": 1,
+                "color": "#B7D42A",
+                "name": "Segunda Fase"
+              },
+              {
+                "num": 2,
+                "color": "#C84101",
+                "name": "Revalida"
+              }
+            ],
+            "columns": [
+              {
+                "key": "Points",
+                "title": "PTS",
+                "type": 1,
+                "is_bold": true
+              },
+              {
+                "key": "GamePlayed",
+                "title": "J",
+                "type": 1
+              },
+              {
+                "key": "Goals",
+                "title": "Gol",
+                "type": 1
+              },
+              {
+                "key": "Ratio",
+                "title": "+/-",
+                "type": 1
+              },
+              {
+                "key": "GamesWon",
+                "title": "G",
+                "type": 1
+              },
+              {
+                "key": "GamesEven",
+                "title": "E",
+                "type": 1
+              },
+              {
+                "key": "GamesLost",
+                "title": "P",
+                "type": 1
+              },
+              {
+                "key": "{trend}",
+                "title": "Últimas",
+                "type": 3
+              }
+            ],
+            "rows": [
+              {
+                "num": 1,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "13:4"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "31"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "8"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "1"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      2,
+                      0,
+                      1,
+                      2,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Olimpo",
+                    "short_name": "Olimpo",
+                    "url_name": "olimpo-de-bahia-blanca",
+                    "id": "hcbg",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#000000",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 2,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "19:7"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "12"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "27"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "3"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      1,
+                      2,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Alvarado",
+                    "short_name": "Alvarado",
+                    "url_name": "alvarado",
+                    "id": "badei",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#173661",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 3,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "15:9"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "6"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "26"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "8"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "2"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      2,
+                      1,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Kimberley Mar Del Plata",
+                    "short_name": "Kimberley",
+                    "url_name": "kimberley-mar-del-plata",
+                    "id": "ehbej",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#009933",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 4,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "14:8"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "6"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "23"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "8"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "3"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      2,
+                      2,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Villa Mitre",
+                    "short_name": "Villa Mitre",
+                    "url_name": "villa-mitre",
+                    "id": "bbjaf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#089908",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#B7D42A"
+              },
+              {
+                "num": 5,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "7:14"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-7"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "18"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "6"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      1,
+                      2,
+                      2,
+                      2,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Germinal",
+                    "short_name": "Germinal",
+                    "url_name": "germinal",
+                    "id": "cijfa",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#218D39",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 6,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "15:18"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-3"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "18"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "6"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "6"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Sol de Mayo",
+                    "short_name": "Sol de Mayo",
+                    "url_name": "sol-de-mayo",
+                    "id": "bbijf",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#269BF7",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 7,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "13:20"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-7"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "17"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "4"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "5"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "7"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      2,
+                      1,
+                      1,
+                      0
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Guillermo Brown",
+                    "short_name": "Gmo. Brown",
+                    "url_name": "guillermo-brown",
+                    "id": "igeh",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#1E2D53",
+                      "text_color": "#FFFFFF"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 8,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "9:17"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-8"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "13"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "7"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      0,
+                      1,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Santamarina Tandil",
+                    "short_name": "Santamarina",
+                    "url_name": "santamarina-tandil",
+                    "id": "jafd",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#FFCA26",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              },
+              {
+                "num": 9,
+                "values": [
+                  {
+                    "key": "GamePlayed",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Goals",
+                    "value": "8:16"
+                  },
+                  {
+                    "key": "Ratio",
+                    "value": "-8"
+                  },
+                  {
+                    "key": "Points",
+                    "value": "13"
+                  },
+                  {
+                    "key": "GamesWon",
+                    "value": "2"
+                  },
+                  {
+                    "key": "GamesEven",
+                    "value": "7"
+                  },
+                  {
+                    "key": "GamesLost",
+                    "value": "7"
+                  },
+                  {
+                    "key": "{trend}",
+                    "value": [
+                      0,
+                      1,
+                      0,
+                      0,
+                      2
+                    ]
+                  }
+                ],
+                "entity": {
+                  "type": 1,
+                  "object": {
+                    "name": "Círculo Deportivo",
+                    "short_name": "Círculo Deportivo",
+                    "url_name": "circulo-deportivo",
+                    "id": "fhagc",
+                    "country_id": "ba",
+                    "allow_open": true,
+                    "colors": {
+                      "color": "#009D1B",
+                      "text_color": "#000000"
+                    }
+                  }
+                },
+                "destination_color": "#C84101"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "games": {
+    "filters": [
+      {
+        "name": "Partidos actuales",
+        "key": "latest"
+      },
+      {
+        "name": "Fecha 1",
+        "key": "5078_42_1_1"
+      },
+      {
+        "name": "Fecha 2",
+        "key": "5078_42_1_2"
+      },
+      {
+        "name": "Fecha 3",
+        "key": "5078_42_1_3"
+      },
+      {
+        "name": "Fecha 4",
+        "key": "5078_42_1_4"
+      },
+      {
+        "name": "Fecha 5",
+        "key": "5078_42_1_5"
+      },
+      {
+        "name": "Fecha 6",
+        "key": "5078_42_1_6"
+      },
+      {
+        "name": "Fecha 7",
+        "key": "5078_42_1_7"
+      },
+      {
+        "name": "Fecha 8",
+        "key": "5078_42_1_8"
+      },
+      {
+        "name": "Fecha 9",
+        "key": "5078_42_1_9"
+      },
+      {
+        "name": "Fecha 10",
+        "key": "5078_42_1_10"
+      },
+      {
+        "name": "Fecha 11",
+        "key": "5078_42_1_11"
+      },
+      {
+        "name": "Fecha 12",
+        "key": "5078_42_1_12"
+      },
+      {
+        "name": "Fecha 13",
+        "key": "5078_42_1_13"
+      },
+      {
+        "name": "Fecha 14",
+        "key": "5078_42_1_14"
+      },
+      {
+        "name": "Fecha 15",
+        "key": "5078_42_1_15"
+      },
+      {
+        "name": "Fecha 16",
+        "key": "5078_42_1_16"
+      },
+      {
+        "name": "Fecha 17",
+        "key": "5078_42_1_17"
+      },
+      {
+        "name": "Fecha 18",
+        "key": "5078_42_1_18"
+      },
+      {
+        "name": "Fecha 1",
+        "key": "5078_42_2_1"
+      },
+      {
+        "name": "Fecha 2",
+        "key": "5078_42_2_2"
+      },
+      {
+        "name": "Fecha 3",
+        "key": "5078_42_2_3"
+      },
+      {
+        "name": "Fecha 4",
+        "key": "5078_42_2_4"
+      },
+      {
+        "name": "Fecha 5",
+        "key": "5078_42_2_5"
+      },
+      {
+        "name": "Fecha 6",
+        "key": "5078_42_2_6"
+      },
+      {
+        "name": "Fecha 7",
+        "key": "5078_42_2_7"
+      },
+      {
+        "name": "Fecha 8",
+        "key": "5078_42_2_8"
+      },
+      {
+        "name": "Fecha 9",
+        "key": "5078_42_2_9",
+        "selected": true,
+        "games": [
+          {
+            "id": "ehjggbh",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Círculo Deportivo",
+                "short_name": "Círculo Deportivo",
+                "url_name": "circulo-deportivo",
+                "id": "fhagc",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#009D1B",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Germinal",
+                "short_name": "Germinal",
+                "url_name": "germinal",
+                "id": "cijfa",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#218D39",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "circulo-deportivo-vs-germinal",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggbi",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Juventud Unida San Luis",
+                "short_name": "Juventud Unida (SL)",
+                "url_name": "juventud-unida-san-luis",
+                "id": "jcib",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#02538C",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "San Martín de Mendoza",
+                "short_name": "San Martín (Mdza)",
+                "url_name": "san-martin-mendoza",
+                "id": "bbjbg",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#FE0000",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "juventud-unida-san-luis-vs-san-martin-mendoza",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggbj",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Costa Brava (Gral Pico)",
+                "short_name": "Costa Brava",
+                "url_name": "costa-brava-(gral-pico)",
+                "id": "ieddg",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#E5E5E6",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Sol de Mayo",
+                "short_name": "Sol de Mayo",
+                "url_name": "sol-de-mayo",
+                "id": "bbijf",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#269BF7",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "costa-brava-(gral-pico)-vs-sol-de-mayo",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggca",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Guillermo Brown",
+                "short_name": "Gmo. Brown",
+                "url_name": "guillermo-brown",
+                "id": "igeh",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#1E2D53",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Fundación Amigos por el Deporte",
+                "short_name": "Fundación Amigos por el Deporte",
+                "url_name": "fundacion-amigos-por-el-deporte",
+                "id": "iebea",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#21282D",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "guillermo-brown-vs-fundacion-amigos-por-el-deporte",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggcb",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Deportivo Rincón",
+                "short_name": "Dvo. Rincón",
+                "url_name": "deportivo-rincon",
+                "id": "fajej",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#21282D",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Santamarina Tandil",
+                "short_name": "Santamarina",
+                "url_name": "santamarina-tandil",
+                "id": "jafd",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#FFCA26",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "deportivo-rincon-vs-santamarina-tandil",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggcc",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Independiente Chivilcoy",
+                "short_name": "Independiente (Chi)",
+                "url_name": "independiente-chivilcoy",
+                "id": "cbjbf",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#FE2A12",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Atlético Escobar",
+                "short_name": "Atlético Escobar",
+                "url_name": "escobar-fc-(ing.-maschwitz)",
+                "id": "jbiaa",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#21282D",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "independiente-chivilcoy-vs-escobar-fc-(ing.-maschwitz)",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggcd",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Sarmiento de Resistencia",
+                "short_name": "Sarmiento (R)",
+                "url_name": "sarmiento-de-resistencia",
+                "id": "jdac",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#F6000C",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "El Linqueño",
+                "short_name": "El Linqueño",
+                "url_name": "el-linqueno",
+                "id": "bbjcf",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#183091",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "sarmiento-de-resistencia-vs-el-linqueno",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggce",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Sportivo Las Parejas",
+                "short_name": "Sportivo LP",
+                "url_name": "sportivo-las-parejas",
+                "id": "ceeaj",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#009933",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Gimnasia de Concepción",
+                "short_name": "Gimnasia de Concepción",
+                "url_name": "gimnasia-de-concepcion-del-uruguay",
+                "id": "jcif",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#0796E4",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "sportivo-las-parejas-vs-gimnasia-de-concepcion-del-uruguay",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggcf",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Boca Unidos de Corrientes",
+                "short_name": "Boca Unidos",
+                "url_name": "boca-unidos",
+                "id": "hcce",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#DA2128",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Defensores Pto. Vilelas",
+                "short_name": "Defensores Pto. Vilelas",
+                "url_name": "defensores-de-vilelas-(puerto-vilelas)",
+                "id": "jbifb",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#21282D",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "boca-unidos-vs-defensores-de-vilelas-(puerto-vilelas)",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggcg",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Alvarado",
+                "short_name": "Alvarado",
+                "url_name": "alvarado",
+                "id": "badei",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#173661",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Olimpo",
+                "short_name": "Olimpo",
+                "url_name": "olimpo-de-bahia-blanca",
+                "id": "hcbg",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#000000",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "alvarado-vs-olimpo-de-bahia-blanca",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggch",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Huracán Las Heras",
+                "short_name": "Huracán (LH)",
+                "url_name": "huracan-las-heras",
+                "id": "cdbje",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#EC2B2A",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Atenas Río Cuarto",
+                "short_name": "Atenas (RC)",
+                "url_name": "scyb-atenas",
+                "id": "hdggf",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#00309E",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "huracan-las-heras-vs-scyb-atenas",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggci",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Juventud Antoniana",
+                "short_name": "Juv. Antoniana",
+                "url_name": "juventud-antoniana",
+                "id": "jchh",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#5A4029",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Cipolletti",
+                "short_name": "Cipolletti",
+                "url_name": "cipolletti",
+                "id": "jcia",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#109547",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "juventud-antoniana-vs-cipolletti",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggcj",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Villa Mitre",
+                "short_name": "Villa Mitre",
+                "url_name": "villa-mitre",
+                "id": "bbjaf",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#089908",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Kimberley Mar Del Plata",
+                "short_name": "Kimberley",
+                "url_name": "kimberley-mar-del-plata",
+                "id": "ehbej",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#009933",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "villa-mitre-vs-kimberley-mar-del-plata",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjggda",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Sarmiento De La Banda",
+                "short_name": "Sarmiento (LB)",
+                "url_name": "sarmiento-de-la-banda",
+                "id": "hjffj",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#003399",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "Defensores Belgrano (VR)",
+                "short_name": "Defensores (VR)",
+                "url_name": "defensores-belgrano-(vr)",
+                "id": "beafg",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#A51D1F",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "sarmiento-de-la-banda-vs-defensores-belgrano-(vr)",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjhbgh",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Sol De América",
+                "short_name": "Sol De América",
+                "url_name": "sol-de-america",
+                "id": "cbjca",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#0F3F89",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "9 De Julio Rafaela",
+                "short_name": "9 de Julio (R)",
+                "url_name": "9-de-julio-rafaela",
+                "id": "hdffa",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#DC2A1C",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "sol-de-america-vs-9-de-julio-rafaela",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjhbgi",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Bartolomé Mitre (Posadas)",
+                "short_name": "Bartolomé Mitre",
+                "url_name": "ca-bartolome-mitre-(posadas)",
+                "id": "iebih",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#323991",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "San Martín de Formosa",
+                "short_name": "San Martín (For)",
+                "url_name": "san-martin-de-formosa",
+                "id": "cijea",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#06203A",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "ca-bartolome-mitre-(posadas)-vs-san-martin-de-formosa",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          },
+          {
+            "id": "ehjhbgj",
+            "stage_round_name": "Fecha 9",
+            "winner": -1,
+            "teams": [
+              {
+                "name": "Douglas Haig",
+                "short_name": "Douglas Haig",
+                "url_name": "douglas-haig",
+                "id": "jcig",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#EE2E24",
+                  "text_color": "#000000"
+                },
+                "red_cards": 0
+              },
+              {
+                "name": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+                "short_name": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+                "url_name": "cscyd-gimnasia-y-esgrima-(chivilcoy)",
+                "id": "ieega",
+                "country_id": "ba",
+                "allow_open": true,
+                "colors": {
+                  "color": "#005B25",
+                  "text_color": "#FFFFFF"
+                },
+                "red_cards": 0
+              }
+            ],
+            "url_name": "douglas-haig-vs-cscyd-gimnasia-y-esgrima-(chivilcoy)",
+            "status": {
+              "enum": 1,
+              "name": "Prog.",
+              "short_name": "Prog.",
+              "symbol_name": "Prog."
+            },
+            "start_time": "20-09-2026 14:00",
+            "game_time": -1,
+            "game_time_to_display": "",
+            "game_time_status_to_display": "Prog."
+          }
+        ]
+      }
+    ]
+  }
+}
